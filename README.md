@@ -65,7 +65,6 @@ A minimal structure to ensure:
 }
 
 ---
-
 ## Related Work
 
 - adap-watson-oncology-case (applied case study)
