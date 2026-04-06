@@ -63,6 +63,7 @@ A minimal structure to ensure:
   "chain_hash": "sha256",
   "signature": "ed25519"
 }
+
 ---
 
 ## Related Work
